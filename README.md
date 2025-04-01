@@ -1,11 +1,14 @@
-## Olá! Eu sou o Matheus Tertuliano👋
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Matheus!;" />
+</h1>
+<div  align="center" >
+  - 🔭 Hoje trabalho como freelancer...
+    <br>
+  - 🌱 Estudando HTML, CSS e JS
+</div>
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando HTML, CSS e JS
-
-
- 
-    <a href="https://github.com/MatheusTertuliano?tab=repositories&sort=stargazers">
+ <div  align="center" >
+ <a href="https://github.com/MatheusTertuliano?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -20,64 +23,26 @@
         />
     </a>
 </p>
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-
-
-
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-
-
-
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<br>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github,tailwind,git" />
+</div>
 
 
 <br/>
 <br/>
 
+
+<br>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
 
 
 
